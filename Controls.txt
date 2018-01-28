@@ -1,0 +1,34 @@
+Press Space to start the game
+
+Controls:
+W: 	Forward
+A: 	Left
+S: 	Backwards
+D: 	Right
+Esc:    Exits The Game
+P: 	Pause The game
+M: 	Developer
+
+Camera Controls:
+UP: 	Move Camera Forwards
+DOWN: 	Move Camera Backwards
+LEfT: 	Move Camera Left
+RIGHT: 	Move Camera Right
+1: 	Reset The Camera
+2: 	First Person Camera
+	
+Features:
+
+Player
+	Vector based movement - The Player moves using vector based movement. 
+
+	Simple Collision detection - The Player bounces back in the direction they were traveling, 
+
+	Position detection - Game keeps track of who is in the lead.
+
+	Boost - 
+
+
+Pre-Screen - 
+
+NPC - The NPC uses a sphere collision box. The NPC follows 
