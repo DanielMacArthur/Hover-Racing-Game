@@ -1,0 +1,16 @@
+﻿  Hover-Racing-Game.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(406,100): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(406,71): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(615,20): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(623,21): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(716,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(742,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(774,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(992,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(1049,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(1055,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(1153,61): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\Hover-Racing-Game.cpp(1176,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Hover-Racing-Game.vcxproj -> D:\GitHub\Hover-Racing-Game\Hover-Racing-Game\\Hover-Racing-GameDebug.exe
+  Copying DLLs & shaders...
